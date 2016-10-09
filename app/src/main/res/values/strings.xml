@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IC 360 Test</string>
+    <string name="enter_number">Введите число</string>
+    <string name="result_placeholder">Место для результата</string>
+    <string name="error">Ошибка</string>
+    <string name="task_started">Задача запущена</string>
+    <string name="divide">Разделить</string>
+</resources>
